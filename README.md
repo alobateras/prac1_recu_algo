@@ -12,4 +12,4 @@ En l'ámbit d'extreure les dades del fitxer amb les dades de la contrucció, com
 
 ## Enllaç Github
 
-https://github.com/Algorismia/prac1_recu_algo
+https://github.com/alobateras/prac1_recu_algo
